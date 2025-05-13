@@ -1,16 +1,33 @@
 ## Hi there 👋
+I’m a software developer with a Master’s degree in Computer Science from the IT University of Copenhagen. I’m passionate about building clean, user-focused software and exploring modern web technologies.
 
-<!--
-**virtuous2be/virtuous2be** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Right now, I’m focused on:
 
-Here are some ideas to get you started:
+🔨 Creating real-world portfolio projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Building fullstack web applications
+
+💼 Preparing for my first role as a professional developer
+
+🧰 Tech Stack
+Languages: JavaScript, Python, TypeScript, SQL
+
+Frameworks: React, Node.js, Express, Next.js
+
+Tools: Git, GitHub, PostgreSQL, Docker, Vercel
+
+🚀 Projects
+Check out my pinned repositories below! Each one includes:
+
+A live demo
+
+Clean, documented code
+
+A clear README explaining the project
+
+📫 Let’s connect!
+LinkedIn: https://www.linkedin.com/in/vivian-luisa-m-seerup-24a792bb/
+
+Email: virtuous2be@gmail.com
+
+Portfolio:(coming soon)
